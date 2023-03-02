@@ -11,7 +11,7 @@
 
 
 ## GitHub Statistics 
-<img src="https://github-readme-stats.vercel.app/api?username=kulkarniaditya1002&show_icons=true&theme=city_lights" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=kulkarniaditya1002&show_icons=true&theme=city_lights" width="400">
 
 
 
