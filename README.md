@@ -1,5 +1,5 @@
 ### Hi there, I'm Aditya Pradip Kulkarni  👋 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" link="https://www.linkedin.com/in/aditya-kulkarni-291a1a166/" height="80" width="80" />
-> I'm a passionate, data geek, 24k marathoner, and a fast learner.
+> I'm a passionate student, data geek, 24k marathoner, and a fast learner.
 
 
 ## About me
