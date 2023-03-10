@@ -11,9 +11,7 @@
 
 
 ## GitHub Statistics 
-<img src="https://github-readme-stats.vercel.app/api?username=kulkarniaditya1002&show_icons=true&theme=city_lights" width="400">
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kulkarniaditya1002&show_icons=true&theme=transparent)
 
 ### TECH STACK
 
