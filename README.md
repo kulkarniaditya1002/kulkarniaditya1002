@@ -4,7 +4,8 @@
 
 ## About me
 
-      - 🔭 I’m currently working on building solid understanding about NLP(LLM), machine learning, data modelling,  statistics, Finance (trading strategy)
+      - 🔭 I’m currently working on building solid understanding about NLP(LLM), Machine Learning, Data Modelling,  
+                                                                       Statistics, Finance (trading strategy)
       - 🌱 I’m currently learning Masters in Data Science.
       - 😄 Pronouns: He/Him
       - ⚡ I am a 24km Marathoner
