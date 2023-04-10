@@ -1,5 +1,5 @@
 ### Hi there, I'm Aditya Pradip Kulkarni  👋 
-> I'm a passionate student, data geek, 24k marathoner, and a fast learner.
+> I'm a passionate student, data geek, 24k marathoner, professional with 2.6 yrs exp.
 
 
 ## About me
