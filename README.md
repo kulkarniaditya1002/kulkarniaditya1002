@@ -14,7 +14,7 @@
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/kadityap)
-- [Kaggle]([https://www.kaggle.com/your-kaggle-profile](https://www.kaggle.com/kulkarniadi))
+- [Kaggle]([https://www.kaggle.com/your-kaggle-profile](https://www.kaggle.com/kulkarniadi)
 
 
 ## GitHub Statistics 
