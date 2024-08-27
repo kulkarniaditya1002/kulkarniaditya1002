@@ -9,6 +9,8 @@
       - 😄 Pronouns: He/Him
       - ⚡ I am a 24km Marathoner
 
+![Profile views](https://komarev.com/ghpvc/?username=kulkarniaditya1002&color=blue)
+
 
 ## GitHub Statistics 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kulkarniaditya1002&show_icons=true&theme=transparent)
