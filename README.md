@@ -17,9 +17,6 @@
 - [Kaggle](https://www.kaggle.com/kulkarniadi)
 
 
-## GitHub Statistics 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kulkarniaditya1002&show_icons=true&theme=transparent)
-
 ### TECH STACK
 
 Languages
