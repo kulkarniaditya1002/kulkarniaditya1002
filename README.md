@@ -1,5 +1,5 @@
 ### Hi there, I'm Aditya Pradip Kulkarni  👋 
-> I'm a passionate student, data geek, 24k marathoner, professional with total 3+ yrs of exp in Data Analysis, Data & Software Engineering.
+> I'm a passionate student, data geek, 24k marathoner, professional with total 4+ yrs of exp in Data Analysis, Higher Education, Data & Software Engineering.
 
 
 ## About me
